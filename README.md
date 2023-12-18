@@ -1,1 +1,1 @@
-# CS160_Purdue_Intro_to_CS
+# CS160_Purdue_Intro_to_Computer_Science
